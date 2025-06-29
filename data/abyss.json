@@ -13,6 +13,12 @@
             "link": "https://youtu.be/gnNzgVAl0_c",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "BobbyPow",
+            "link": "https://www.youtube.com/watch?v=hpcoI2DyNP8",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
