@@ -31,6 +31,12 @@
             "link": "https://www.youtube.com/watch?v=LrTDj8rHTL0",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "Neptune",
+            "link": "https://youtu.be/TqIK7x811VM",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
