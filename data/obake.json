@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "VRAPUR",
+            "link": "https://youtu.be/yoCAw8Ts2Xg",
+            "percent": 100,
+            "hz": 480
+        }
     ]
 }
