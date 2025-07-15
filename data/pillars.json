@@ -31,7 +31,12 @@
             "link": "https://www.youtube.com/watch?v=VukXnSsK9TA",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Fivro",
+            "link": "https://youtu.be/nhA2NftP8E8",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
-
