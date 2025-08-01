@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Infernux",
+            "link": "https://youtu.be/HhV9aDtc8jY",
+            "percent": 100,
+            "hz": 480
+        }
     ]
 }
